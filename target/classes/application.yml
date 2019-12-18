@@ -1,0 +1,10 @@
+server:
+ port: 8080
+
+neo:
+ title: 哈哈哈
+ dri: lalala
+
+spring:
+  thymeleaf:
+    cache: false
